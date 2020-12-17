@@ -2,3 +2,4 @@
 ok going for commit #2
 
 this line added at Github repo...
+this line add in VS CODE
